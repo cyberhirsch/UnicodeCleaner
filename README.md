@@ -1,4 +1,4 @@
-# Unicode Character Viewer & Cleaner
+# Unicode Character Cleaner
 
 A simple, client-side web tool to inspect strings for hidden or non-printable Unicode characters (like Zero-Width Spaces, BOM, control characters), visualize them, clean the string based on standard printable characters, and copy the result.
 
